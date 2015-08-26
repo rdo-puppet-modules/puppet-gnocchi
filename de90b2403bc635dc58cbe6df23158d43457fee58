@@ -1,0 +1,7 @@
+Code-Review+2: RDO CI Service Account <openstack-ci-service@redhat.com>
+Verified+1: RDO CI Service Account <openstack-ci-service@redhat.com>
+Submitted-by: RDO CI Service Account <openstack-ci-service@redhat.com>
+Submitted-at: Wed, 26 Aug 2015 10:44:00 +0200
+Reviewed-on: https://review.gerrithub.io/242953
+Project: rdo-puppet-modules/puppet-gnocchi
+Branch: refs/heads/recomb-original-master-b3e503c3e09b24c1540ac13bba8c07181f10563a
